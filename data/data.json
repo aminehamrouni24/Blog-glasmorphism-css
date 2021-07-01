@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "My first Blog",
+      "body": "This is my first blog app , it actually created with a little bet of help of the ninja net youtube channel",
+      "author": "Amin Hamrouni",
+      "id": 1
+    },
+    {
+      "title": "First reaction",
+      "body": "This blog app creation was made all throught the basics of ReactJs ",
+      "author": "Monkey. D Luffy",
+      "id": 2
+    },
+    {
+      "title": "this is a test for method Post and creating a new blog ",
+      "body": "So we used the fetch method and sent data to the url ",
+      "author": "mario",
+      "id": 4
+    }
+  ]
+}
